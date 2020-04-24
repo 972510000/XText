@@ -27,3 +27,4 @@ pod 'XText'
 ## License
 
 XText is available under the MIT license. See the LICENSE file for more info.
+富文本
